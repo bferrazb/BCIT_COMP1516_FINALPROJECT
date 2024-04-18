@@ -1,5 +1,4 @@
 # BCIT_COMP1516_FINALPROJECT
-Movie Manager application
 
 Movie Manager application that keeps track of movies in a collection. 
 
